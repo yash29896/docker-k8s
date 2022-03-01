@@ -1,6 +1,6 @@
 pipeline {  
     agent any  
-    
+     
     stages {  
         /*
 		Jenkinsfile is coming from this gitrepo. Hence below step not required.
